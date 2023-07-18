@@ -1,12 +1,23 @@
-## Hi there 👋
+# 구름 풀스택 1기 2조 - 살려조
 
-<!--
+## 목적
+사이드 프로젝트를 경험해보면서 개발 경험을 쌓아보고 싶습니다.
 
-**Here are some ideas to get you started:**
+## 프로젝트 목록
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 기여하기
+
+## 팀 구성
+- 팀장 배진환
+- 팀원 김경규
+- 팀워 김재민
+- 팀원 유지완
+- 팀원 최자현
+
+## 커뮤니케이션
+
+## 라이센스
+
+##기타
+
+
